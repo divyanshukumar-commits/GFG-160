@@ -1,4 +1,5 @@
 package Array;
+
 class GetSecondLargest {
     public int getSecondLargest(int[] arr) {
         int largest = Integer.MIN_VALUE;
